@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://waterboy96.github.io',
                 'git_url': 'https://github.com/waterboy96/nbdev_test',
                 'lib_path': 'nbdev_test'},
-  'syms': {'nbdev_test.core': {'nbdev_test.core.foo': ('core.html#foo', 'nbdev_test/core.py')}}}
+  'syms': { 'nbdev_test.core': { 'nbdev_test.core.addition': ('coretest.html#addition', 'nbdev_test/core.py'),
+                                 'nbdev_test.core.say_hello': ('coretest.html#say_hello', 'nbdev_test/core.py')}}}
