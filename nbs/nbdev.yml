@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_test"
+  site-url: "https://waterboy96.github.io/nbdev_test"
+  description: "A test repository for working with nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/waterboy96/nbdev_test"
